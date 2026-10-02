@@ -1,0 +1,2 @@
+# Jewel
+AI Jewellery project
